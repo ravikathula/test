@@ -25,7 +25,7 @@ leftmenuitem();
 <div id="content">
 	<h2>About Striker!</h2>
 	<h3>Personal Information</h3>
-    <h2>striker demo</h2>
+    <h2>Ravi Kathula</h2>
 	<h3>CEO & Chief programmer of iTech System</h3>
     <p>Date of Birth: 12 June 1983</p>
     <p>Nationality: Bangladeshi</p>
